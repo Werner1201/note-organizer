@@ -10,3 +10,8 @@ Little experiment using File Manipulation Functions and Search Algorithms and Gr
 ### Starting Plans
 
 1. Make a arg separator and write the args on a print
+
+
+#### Setup for developing in other machines:
+Do on your terminal inside the repo: 
+`python -m venv env`
