@@ -15,3 +15,4 @@ Little experiment using File Manipulation Functions and Search Algorithms and Gr
 #### Setup for developing in other machines:
 Do on your terminal inside the repo: 
 `python -m venv env`
+`pip install -r requirements.txt`
